@@ -1,0 +1,219 @@
+html {
+  /* background: #f5f5f5; */
+  background-color: #B5C2E6;
+  font-family: "Montserrat", sans-serif;
+  scroll-behavior: smooth;
+
+  /* font-family:Arial, Helvetica, sans-serif; */
+}
+
+/*   HERE IS THE LOGIN     */
+body {
+  overflow-x: hidden;
+  background-color: #B5C2E6;
+  font-family: "Montserrat", sans-serif !important;
+
+}
+
+body .welcomeBody {
+  background-color: #B5C2E6;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+textarea,
+select {
+  background: rgba(255, 255, 255, 0.1);
+  border: none;
+  font-size: 16px;
+  height: auto;
+  margin: auto;
+  outline: 0;
+  padding: 8px;
+  width: 100%;
+  background-color: #e8eeef;
+  color: black;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03) inset;
+
+}
+
+p {
+  font-size: 12px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+}
+
+.app_form {
+  max-width: 600px;
+  padding: 10px 70px 0px 70px;
+  box-shadow: 0 0 20px #98989800;
+}
+
+h1 {
+  margin: 0 0 30px 0;
+  text-align: center;
+}
+
+
+
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+textarea,
+select {
+  background: rgba(255, 255, 255, 0.1);
+  border: none;
+  font-size: 16px;
+  height: 30px;
+  margin: auto;
+  outline: 0;
+  padding: 8px;
+  width: 100%;
+  border-radius: 16px;
+  background-color: #e8eeef;
+  color: black;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03) inset;
+  border-bottom: 1px solid #000000;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+select {
+  padding: 6px;
+  height: 32px;
+  border-radius: 2px;
+}
+
+button {
+  position: relative;
+  cursor: pointer;
+  padding: 19px 39px 18px 39px;
+  color: #FFF;
+  background-color: #405fbb;
+  font-size: 20px;
+  text-align: center;
+  font-style: normal;
+  font-family: "Montserrat", sans-serif;
+  border-radius: 10px;
+  width: 100%;
+  border: none;
+  box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.1) inset;
+  margin-bottom: 10px;
+}
+
+
+fieldset {
+  border: none;
+}
+
+legend {
+  font-size: 1.4em;
+  margin-bottom: 10px;
+}
+
+
+form {
+  max-width: 480px;
+}
+
+
+
+.projects .responsive-table {
+  overflow-x: auto;
+}
+
+.projects table {
+  min-width: 1000px;
+  border-spacing: 0;
+  text-align: center;
+}
+
+.projects thead td {
+  color: white;
+  background-color: #405fbb;
+  font-weight: bold;
+}
+
+.projects table td {
+  padding: 15px;
+}
+
+.projects tbody td {
+  border-bottom: 1px solid #eee;
+  border-left: 1px solid #eee;
+  transition: 0.3s;
+}
+
+.projects tbody tr:hover td {
+  background-color: #FFF !important;
+
+  tbody td{
+    color:#000000 !important ;
+  }
+}
+
+.projects table tbody tr td:last-child {
+  border-right: 1px solid #eee;
+}
+
+.projects table .label {
+  font-size: 13px;
+}
+
+.projects table img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  padding: 2px;
+  background-color: white;
+}
+
+.projects table img:not(:first-child) {
+  margin-left: -20px;
+}
+
+.welbtn {
+  text-decoration: none;
+  box-sizing: border-box;
+  width: 300px;
+  height: 50px;
+  color: white;
+  background: #3B406B;
+  border-bottom: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  padding: 10px 40px;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  letter-spacing: 1.2px;
+}
