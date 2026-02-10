@@ -179,7 +179,7 @@ $dbname = "copd_guard";
 
 1. Open **phpMyAdmin** or MySQL CLI.
 
-2. import the schema file:
+2. Import the schema file:
    ```sql
    -- Run the contents of database/copd_guard.sql
    ```
