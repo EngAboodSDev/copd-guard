@@ -144,7 +144,7 @@ if (isset($_POST['register'])) {
       </form>
     </div>
   </div>
-
+  <?php include 'footer.php'; ?>
 
   <script>
     const nextButton = document.querySelector('.next_button');

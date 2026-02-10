@@ -149,7 +149,7 @@ if (isset($_GET['pid']) && is_numeric($_GET['pid'])) {
 </head>
 
 <body>
-    
+
     <!-- 
 	    * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
 	    * All rights reserved.
@@ -296,6 +296,7 @@ if (isset($_GET['pid']) && is_numeric($_GET['pid'])) {
             </div>
         </div>
     </div>
+    <?php include 'footer.php'; ?>
     <!-- 
 	    * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
 	    * All rights reserved.

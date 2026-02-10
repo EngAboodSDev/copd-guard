@@ -238,7 +238,7 @@ if (isset($_GET['pid']) && is_numeric($_GET['pid'])) {
             </div>
         </div>
     </div>
-
+    <?php include 'footer.php'; ?>
     <script>
         var selectMonth = document.getElementById("selectMonth");
         selectMonth.addEventListener("change", function () {

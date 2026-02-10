@@ -308,6 +308,7 @@ if (isset($_GET['accept']) && is_numeric($_GET['accept'])){
             <!-- End Project Table -->
         </div>
     </div>
+    <?php include 'footer.php'; ?>
     <script>
         const searchInput = document.getElementById('searchInput');
             const tableRows = document.querySelectorAll('#userTable tbody tr');

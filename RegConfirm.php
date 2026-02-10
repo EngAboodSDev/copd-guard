@@ -86,6 +86,7 @@
                 <center>
         </div>
     </div>
+    <?php include 'footer.php'; ?>
     <!-- 
 	    * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
 	    * All rights reserved.

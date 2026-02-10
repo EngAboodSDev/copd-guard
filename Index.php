@@ -79,13 +79,14 @@ if (!isAdminLoggedIn() && isUserLoggedIn()) {
             <a href="Login.php" class="welbtn" >Login</a>            
         </div>
     </div>
+    <?php include 'footer.php'; ?>
     <!-- 
 	    * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
 	    * All rights reserved.
 	    * Developed by Abdulrahman Fadhl Ameer Saif
 	    * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
 	-->
-
+    
 </body>
 <?php
 /*

@@ -281,7 +281,7 @@ if (isset($_POST['saveChanges'])) {
             </div>
         </div>
     </div>
-
+    <?php include 'footer.php'; ?>
     <script>
         // Get form elements
         const form = document.getElementById('profile-form');
