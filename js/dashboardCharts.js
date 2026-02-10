@@ -1,7 +1,9 @@
-
-
-
-
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
 
 
 var ctx2 = document.getElementById("chart-line").getContext("2d");
@@ -25,6 +27,13 @@ var gradientStrokeOxygenstat = ctx2.createLinearGradient(0, 250, 0, 20);
 gradientStrokeOxygenstat.addColorStop(1, 'rgba(208, 251, 255, 1)');
 gradientStrokeOxygenstat.addColorStop(0, 'rgba(221, 242, 244, 0)'); // borCol - rgba(71, 143, 150, 1)
 
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
+
 // Peak Flow
 var gradientStrokePeakFlow = ctx2.createLinearGradient(0, 250, 0, 20);
 gradientStrokePeakFlow.addColorStop(1, 'rgba(248, 222, 189, 1)');
@@ -32,7 +41,12 @@ gradientStrokePeakFlow.addColorStop(0, 'rgba(251, 235, 214, 0)'); // borCol - rg
 
 
 
-
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
 
 
 new Chart(ctx2, {
@@ -177,7 +191,12 @@ new Chart(ctx2, {
   },
 });
 
-
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
 
 // to dorw statistics for HPDashboard page 
 function statisticsCharts() {
@@ -259,7 +278,12 @@ function statisticsCharts() {
   });
 
 
-
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
   // drow chart line for CAT Quiz  in HPDashboard page
   var ctxCATQuiz = document.getElementById("chart-line-cat-quiz").getContext("2d");
   var gradStrkCATQuiz = ctxCATQuiz.createLinearGradient(0, 250, 0, 20);
@@ -316,7 +340,12 @@ function statisticsCharts() {
     options: optionsForSmallCharts,
   });
 
-
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
 
   // drow chart line for Oxygen staturation rate  in HPDashboard page
   var ctxOxygenStat = document.getElementById("chart-line-oxygen-stat").getContext("2d");
@@ -372,3 +401,11 @@ function statisticsCharts() {
     options: optionsForSmallCharts,
   });
 }
+
+
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/

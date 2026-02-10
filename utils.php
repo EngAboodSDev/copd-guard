@@ -1,4 +1,10 @@
 <?php
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
 
 
 function redirect(String $page)
@@ -17,6 +23,12 @@ function escapeStr($con,$str)
 }
 
 
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
 
 // Encryption
 function encrypt($string, $key) { // key = U#h2*4pL!Z8d@9sF
@@ -54,6 +66,11 @@ function currentAdminId()
 }
 
 
-
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
 
 ?>

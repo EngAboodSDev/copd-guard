@@ -1,4 +1,12 @@
 <?php
+
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
+
 require_once 'utils.php';
 require_once 'dbcon.php';
 require_once 'Controller.php';
@@ -64,6 +72,13 @@ if (isset($_POST['register'])) {
 </head>
 
 <body>
+    <!-- 
+	    * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+	    * All rights reserved.
+	    * Developed by Abdulrahman Fadhl Ameer Saif
+	    * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+	-->
+
   <div class="regcontainer">
     <div class="leftside">
       <svg width="600" height="347" viewBox="0 0 600 347" fill="none" xmlns="http://www.w3.org/2000/svg"
@@ -141,7 +156,22 @@ if (isset($_POST['register'])) {
       }
     })
   </script>
+    <!-- 
+	    * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+	    * All rights reserved.
+	    * Developed by Abdulrahman Fadhl Ameer Saif
+	    * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+	-->
 
 </body>
+
+<?php
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
+?>
 
 </html>

@@ -1,3 +1,10 @@
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
+
 :root {
     --blue-color: #7585F8;
     --blue-alt-color: #3B406B;
@@ -388,6 +395,14 @@
 }
 
 
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
+
+
 @media (max-width: 767px){
     .txt-c-mobile{
         text-align: center;
@@ -454,3 +469,9 @@
 }
 /* End components */
 
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/

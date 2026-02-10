@@ -1,4 +1,12 @@
 <?php
+
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
+
 require_once 'utils.php';
 require_once 'dbcon.php';
 require_once 'Controller.php';
@@ -141,6 +149,14 @@ if (isset($_GET['pid']) && is_numeric($_GET['pid'])) {
 </head>
 
 <body>
+    
+    <!-- 
+	    * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+	    * All rights reserved.
+	    * Developed by Abdulrahman Fadhl Ameer Saif
+	    * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+	-->
+
     <!-- Container for all page  -->
     <div class="page d-flex">
         <!-- sidebar of page  -->
@@ -280,6 +296,19 @@ if (isset($_GET['pid']) && is_numeric($_GET['pid'])) {
             </div>
         </div>
     </div>
+    <!-- 
+	    * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+	    * All rights reserved.
+	    * Developed by Abdulrahman Fadhl Ameer Saif
+	    * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+	-->
 </body>
-
+<?php
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
+?>
 </html>

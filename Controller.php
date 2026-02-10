@@ -1,4 +1,11 @@
 <?php
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
+
 
 // --------- Start operations used for admin logined ---------- //
 
@@ -80,6 +87,15 @@ function deleteAdminUser($Admin_ID)
     $sql = "DELETE FROM `Admins` WHERE `Admin_ID`=$Admin_ID";
     return mysqli_query($db, $sql);
 }
+
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
+
+
 
 function changeHealthcareProviderStatus($Healthcare_Provider_ID, $Status)
 {   // function to change the Healthcare Provider Status in system -- AdminDashboard page
@@ -169,6 +185,13 @@ function user_login($Email, $Password)
     }
     return false;
 }
+
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
 
 
 
@@ -290,6 +313,12 @@ function getHProviderNotifications($Healthcare_Provider_ID)
     return $Notifications;
 }
 
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
 
 
 function seeNotification($seenId)
@@ -320,3 +349,10 @@ function getDateManths($Patient_ID)
 // --------- End operations used for Healthcare Provider logined ---------- //
 
 // /////////////////////////////////////////////////////////////////////
+
+/*
+ * Copyright © 2026 COPD GUARD - Health Management System (Dashboard)
+ * All rights reserved.
+ * Developed by Abdulrahman Fadhl Ameer Saif
+ * @EngAboodSDev (abdulrahmanfadhl@gmail.com)
+*/
