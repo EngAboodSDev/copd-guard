@@ -220,6 +220,7 @@ $dbname = "copd_guard";
 ![Desktop Home](docs/screenshots/copd-guard-home.png)
 </details>
 
+<details>
   <summary>Login and Register Page</summary>
 
 ![Desktop Home](docs/screenshots/copd-guard-login.png)
