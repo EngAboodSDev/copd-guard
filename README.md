@@ -282,6 +282,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Developer**: Abdulrahman Fadhl Ameer Saif `@EngAboodSDev`
 - **Email**: abdulrahmanfadhl@gmail.com
 - **LinkedIn**: [Abdulrahman Fadhl](https://www.linkedin.com/in/engaboodsdev/)
-- **Repository**: [GitHub Repository](https://github.com/EngAboodSDev/aoun)
+- **Repository**: [GitHub Repository](https://github.com/EngAboodSDev/copd-guard)
 
 ---
