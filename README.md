@@ -217,31 +217,31 @@ $dbname = "copd_guard";
 <details>
   <summary>Landing Page</summary>
 
-![Desktop Home](docs/screenshots/copd-guard-home.png)
+![Landing Page](docs/screenshots/copd-guard-home.png)
 </details>
 
 <details>
   <summary>Login and Register Page</summary>
 
-![Desktop Home](docs/screenshots/copd-guard-login.png)
-![Desktop Home](docs/screenshots/copd-guard-register.png)
-![Desktop Home](docs/screenshots/copd-guard-reset-password.png)
+![Login Page](docs/screenshots/copd-guard-login.png)
+![Register Page](docs/screenshots/copd-guard-register.png)
+![Reset Password Page](docs/screenshots/copd-guard-reset-password.png)
 </details>
 
 <details>
   <summary>Admin Dashboard Page</summary>
 
-![Desktop Home](docs/screenshots/copd-guard-admin-dashboard.png)
+![Admin Dashboard Page](docs/screenshots/copd-guard-admin-dashboard.png)
 </details>
 
 <details>
   <summary>Healthcare Provider Pages</summary>
 
-![Desktop About](docs/screenshots/copd-guard-hp-dashboard.png)
-![Desktop About](docs/screenshots/copd-guard-hp-prescriptions.png)
-![Desktop About](docs/screenshots/copd-guard-hp-add-prescription.png)
-![Desktop About](docs/screenshots/copd-guard-hp-notifications.png)
-![Desktop About](docs/screenshots/copd-guard-hp-profile.png)
+![HP Dashboard Page](docs/screenshots/copd-guard-hp-dashboard.png)
+![Prescriptions Page](docs/screenshots/copd-guard-hp-prescriptions.png)
+![Add Prescription Page](docs/screenshots/copd-guard-hp-add-prescription.png)
+![Notifications Page](docs/screenshots/copd-guard-hp-notifications.png)
+![Profile Page](docs/screenshots/copd-guard-hp-profile.png)
 </details>
 
 [See All Screenshots...](/docs/screenshots/)
