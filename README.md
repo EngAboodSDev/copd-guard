@@ -1,5 +1,5 @@
 
-# 🩺 COPD GUARD - Health Management System (Dashboard) | نظام لإدارة ومراقبة مرض الإنسداد الرئوي (لوحة تحكم) 
+# 🩺 COPD GUARD - Health Management System (Dashboard) | نظام لإدارة ومراقبة مرضئ الإنسداد الرئوي (لوحة تحكم) 
 ![logo](/docs/screenshots/copd-guard-main.png)
 
 A web-based health management system designed to assist Healthcare Providers in monitoring and managing patients with Chronic Obstructive Pulmonary Disease (COPD). It facilitates prescription management, health tracking, and communication between patients and providers.
